@@ -562,9 +562,9 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 6A05B7BB1BE274BE00F19B53 /* Build configuration list for PBXNativeTarget "ObjectMapper-tvOS" */;
 			buildPhases = (
+				6A05B7A31BE274BE00F19B53 /* Headers */,
 				6A05B7A11BE274BE00F19B53 /* Sources */,
 				6A05B7A21BE274BE00F19B53 /* Frameworks */,
-				6A05B7A31BE274BE00F19B53 /* Headers */,
 				6A05B7A41BE274BE00F19B53 /* Resources */,
 			);
 			buildRules = (
@@ -598,9 +598,9 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 6A2AD0441B2C78540097E150 /* Build configuration list for PBXNativeTarget "ObjectMapper-watchOS" */;
 			buildPhases = (
+				6A2AD03A1B2C78540097E150 /* Headers */,
 				6A2AD0381B2C78540097E150 /* Sources */,
 				6A2AD0391B2C78540097E150 /* Frameworks */,
-				6A2AD03A1B2C78540097E150 /* Headers */,
 				6A2AD03B1B2C78540097E150 /* Resources */,
 			);
 			buildRules = (
@@ -616,9 +616,9 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 6AAC8F8919F03C2900E7A677 /* Build configuration list for PBXNativeTarget "ObjectMapper-iOS" */;
 			buildPhases = (
+				6AAC8F7319F03C2900E7A677 /* Headers */,
 				6AAC8F7119F03C2900E7A677 /* Sources */,
 				6AAC8F7219F03C2900E7A677 /* Frameworks */,
-				6AAC8F7319F03C2900E7A677 /* Headers */,
 				6AAC8F7419F03C2900E7A677 /* Resources */,
 			);
 			buildRules = (
@@ -653,9 +653,9 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = CD1603161AC023D6000CD69A /* Build configuration list for PBXNativeTarget "ObjectMapper-macOS" */;
 			buildPhases = (
+				CD1602FC1AC023D5000CD69A /* Headers */,
 				CD1602FA1AC023D5000CD69A /* Sources */,
 				CD1602FB1AC023D5000CD69A /* Frameworks */,
-				CD1602FC1AC023D5000CD69A /* Headers */,
 				CD1602FD1AC023D5000CD69A /* Resources */,
 			);
 			buildRules = (
